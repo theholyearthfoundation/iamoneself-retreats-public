@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "d337485873b47b23225b0d7dd3768fbe5531b9ba",
-  "shortCommit": "d337485",
-  "message": "Merge pull request #3 from theholyearthfoundation/preview",
+  "commit": "fa7f29765ca77f08a6d8b93388b136a638e1fefe",
+  "shortCommit": "fa7f297",
+  "message": "Promote: this month's dependency updates (React 19.3, eslint 10, framer-motion 14, Actions v7), TypeScript 7 held (#10)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-26T04:05:54-04:00",
-  "builtAt": "2026-10-26T08:06:32.874Z"
+  "committedAt": "2026-10-26T06:04:31-04:00",
+  "builtAt": "2026-10-26T10:05:22.420Z"
 }
