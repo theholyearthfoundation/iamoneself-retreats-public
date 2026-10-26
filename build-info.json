@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "fa7f29765ca77f08a6d8b93388b136a638e1fefe",
-  "shortCommit": "fa7f297",
-  "message": "Promote: this month's dependency updates (React 19.3, eslint 10, framer-motion 14, Actions v7), TypeScript 7 held (#10)",
+  "commit": "8a9a5ec2a2db528aa40dfd2d352ed1ebfab1d61d",
+  "shortCommit": "8a9a5ec",
+  "message": "Promote: a practice gift on /give (the arrival kit 1.5.2 walk through giving where nothing is real) (#11)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-26T06:04:31-04:00",
-  "builtAt": "2026-10-26T10:05:22.420Z"
+  "committedAt": "2026-10-26T12:40:09-04:00",
+  "builtAt": "2026-10-26T16:40:58.689Z"
 }
