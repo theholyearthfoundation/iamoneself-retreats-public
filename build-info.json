@@ -1,10 +1,10 @@
 {
   "lane": "live",
   "branch": "main",
-  "commit": "1fe4b52102fba9926c516b0f7a1c04033e80ce39",
-  "shortCommit": "1fe4b52",
-  "message": "Promote: round 2 from Christopher's review — the kaleidoscope blooms on every pause, snappy trails and sky, \"Make this my path\" on Plants & Miracles, Christopher W in Our Team of Healers, the listing directories in the form (#13)",
+  "commit": "10efc0e05a3b00241e621a236452cb718ffa6521",
+  "shortCommit": "10efc0e",
+  "message": "Promote: a true welcome for Kenney's AI helper (WELCOME-FOR-YOUR-HELPER.md, linked from the top of AGENTS.md); the listing kit's naming note; Christopher W's card gains one link; the PR template's merge note (#14)",
   "author": "Christopher Stephen Wilson",
-  "committedAt": "2026-10-27T08:25:13-04:00",
-  "builtAt": "2026-10-27T12:25:55.762Z"
+  "committedAt": "2026-10-27T14:30:18-04:00",
+  "builtAt": "2026-10-27T18:31:09.556Z"
 }
