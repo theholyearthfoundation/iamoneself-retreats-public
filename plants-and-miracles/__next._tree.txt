@@ -6,4 +6,4 @@
 :HL["/_next/static/chunks/3w0qlwc7e72u1.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"plants-and-miracles","h":96,"c":"$Q2"}]]
-0:{"b":"qp5eoFHEdUU9-GuHdY89O","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Lt6V5sI3Hgj3Jcmh7s938","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
